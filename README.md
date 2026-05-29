@@ -4,8 +4,8 @@ Full-stack task management app built for Upwork portfolio.
 
 ## Live Demo
 
-- **Frontend:** *(deploy to Vercel — link будет после деплоя)*
-- **API:** *(deploy to Render — link будет после деплоя)*
+- **Frontend:** https://task-manager-nu-jade-33.vercel.app
+- **API:** https://task-manager-api-tpfn.onrender.com
 
 > **Note:** API runs on Render free tier — first request may take 30–60s (cold start).
 > SQLite data resets on each redeploy (portfolio demo behavior).
