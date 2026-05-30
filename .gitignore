@@ -1,3 +1,11 @@
+# Plans & team logs — local only
+plans/
+team-logs/
+
+# Claude Code — не коммитить
+.claude/
+_prompts
+
 # Dependencies
 node_modules/
 
@@ -24,3 +32,5 @@ dist/
 # Logs
 *.log
 npm-debug.log*
+.vercel
+.env*
